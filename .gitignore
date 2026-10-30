@@ -1,0 +1,7 @@
+# Outputs made by run_all.m
+models/montages/
+models/baseline/
+data/
+results/
+figures/
+.DS_Store
